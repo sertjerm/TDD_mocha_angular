@@ -4,3 +4,10 @@
 
 - Mocha
 - Chai
+
+## npm test command
+> npm test
+
+or 
+
+> mocha app/scripts/services/__tests__/userService.js
