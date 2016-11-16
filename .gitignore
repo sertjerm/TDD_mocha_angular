@@ -1,4 +1,6 @@
 bower_components/
 node_modules/
-userService.1.js
 tests/
+userService.1.js
+userService.js
+
