@@ -1,0 +1,21 @@
+{
+  "name": "testmocha2",
+  "version": "1.0.0",
+  "description": "firt test",
+  "main": "index.js",
+  "dependencies": {
+    "angular-mocks": "^1.5.8",
+    "jsdom": "^9.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  },
+  "scripts": {
+      "test": "mocha app/scripts/services/__tests__/userService.js"
+  },
+  "keywords": [
+    "mochajs"
+  ],
+  "author": "samai sertjerm",
+  "license": "MIT"
+}

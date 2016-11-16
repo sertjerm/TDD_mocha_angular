@@ -1,0 +1,4 @@
+bower_components/
+node_modules/
+userService.1.js
+tests/
